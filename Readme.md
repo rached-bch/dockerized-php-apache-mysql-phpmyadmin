@@ -1,0 +1,1 @@
+Exemple simplifié pour démarrer une environnement de développement
